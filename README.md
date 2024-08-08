@@ -4,6 +4,7 @@
 HomeBrew安装脚本
 HomeBrew_installer_ustc.sh:使用科大讯飞镜像安装HomeBrew
 HomeBrew_installer_tsinghua.sh:使用清华镜像安装HomeBrew
+HomeBrew_uninstall.sh:卸载HomeBrew
 
 Rosetta2_install.sh:安装Rosetta2
 
